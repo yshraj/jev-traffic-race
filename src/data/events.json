@@ -1,0 +1,322 @@
+[
+  {
+    "id": "h01",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A deep pothole fills the right tyre track. The left side of the road is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "pothole", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h02",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A deep pothole fills the left tyre track. The right side of the road is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "pothole", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h03",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A parked truck blocks the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "truck", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h04",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A parked truck blocks the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "truck", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h05",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A cow stands in the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "cow", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h06",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A cow stands in the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "cow", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h07",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A line of traffic cones closes the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "cone", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h08",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A line of traffic cones closes the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "cone", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h09",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A dig barricade sits across the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "barricade", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h10",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A dig barricade sits across the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "barricade", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h11",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "An auto rickshaw has stopped in the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "rickshaw", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h12",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "An auto rickshaw has stopped in the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "rickshaw", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h13",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A patch of wet cement covers the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "cement", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h14",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A patch of wet cement covers the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "cement", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h15",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A bus is pulling out into the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "bus", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h16",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A bus is pulling out into the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "bus", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h17",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A dog is crossing the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "dog", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h18",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A pedestrian is walking along the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "pedestrian", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h19",
+    "gold": "left",
+    "kind": "clear",
+    "cue": "A motorbike is weaving through the right side of the road. The left side is open. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open. Swerve left.",
+    "visual": { "gap": "left", "hazard": "bike", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h20",
+    "gold": "right",
+    "kind": "clear",
+    "cue": "A motorbike is weaving through the left side of the road. The right side is open. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open. Swerve right.",
+    "visual": { "gap": "right", "hazard": "bike", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h21",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A pothole sits in the middle of the road. A painted arrow on the road points right. An auto rickshaw fills the right side.",
+    "notes": "The painted arrow disagrees with the open side, and the right side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "pothole", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h22",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A cow stands in the middle of the road. A painted arrow on the road points left. A bus fills the left side.",
+    "notes": "The painted arrow disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "cow", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h23",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A dig barricade sits in the middle of the road. A roadside sign points left. A parked truck fills the left side.",
+    "notes": "The sign disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "barricade", "marking": "sign", "fake": false }
+  },
+  {
+    "id": "h24",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A patch of wet cement covers the middle of the road. A painted arrow on the road points right. A motorbike fills the right side.",
+    "notes": "The painted arrow disagrees with the open side, and the right side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "cement", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h25",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A line of traffic cones closes the middle of the road. A painted arrow on the road points right. A dig barricade fills the right side.",
+    "notes": "The painted arrow disagrees with the open side, and the right side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "cone", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h26",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A dog has stopped in the middle of the road. A roadside sign points right. A pothole fills the right side.",
+    "notes": "The sign disagrees with the open side, and the right side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "dog", "marking": "sign", "fake": false }
+  },
+  {
+    "id": "h27",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A parked truck blocks the middle of the road. A painted arrow on the road points left. Wet cement fills the left side.",
+    "notes": "The painted arrow disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "truck", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h28",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A bus has stopped across the middle of the road. A roadside sign points left. A pedestrian fills the left side.",
+    "notes": "The sign disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "bus", "marking": "sign", "fake": false }
+  },
+  {
+    "id": "h29",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "A pothole sits in the middle of the road. A painted arrow on the road points left. A motorbike fills the left side.",
+    "notes": "The painted arrow disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "pothole", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h30",
+    "gold": "hold",
+    "kind": "conflict",
+    "cue": "An auto rickshaw has stopped in the middle of the road. A roadside sign points right. A cow fills the right side.",
+    "notes": "The sign disagrees with the open side, and the right side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "rickshaw", "marking": "sign", "fake": false }
+  },
+  {
+    "id": "h31",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "A plastic bag is drifting across the road. Nothing solid is in either tyre track.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "bag", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h32",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "The shadow of an overhead wire lies across the road and looks like a crack. The road surface under it is flat.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "shadow", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h33",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "A dark patch of old tar looks like a pothole. The road surface there is level.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "shadow", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h34",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "A sheet of newspaper is lying flat on the road. Nothing solid is in either tyre track.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "bag", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h35",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "A repaired tar seam runs across the road and looks like a ridge. The road surface is level across it.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "shadow", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h36",
+    "gold": "hold",
+    "kind": "fake",
+    "cue": "An empty carton is rolling across the road. Nothing solid is in either tyre track.",
+    "notes": "The hazard is not real. Hold the line.",
+    "visual": { "gap": "none", "hazard": "bag", "marking": "none", "fake": true }
+  },
+  {
+    "id": "h37",
+    "gold": "left",
+    "kind": "edge",
+    "cue": "A shallow pothole sits in the right tyre track. The left side is open but narrow. There are no painted markings.",
+    "notes": "The hazard is real and the left side is open, even though it is narrow. Swerve left.",
+    "visual": { "gap": "left", "hazard": "pothole", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h38",
+    "gold": "right",
+    "kind": "edge",
+    "cue": "A thin patch of wet cement covers the left tyre track. The right side is open but narrow. There are no painted markings.",
+    "notes": "The hazard is real and the right side is open, even though it is narrow. Swerve right.",
+    "visual": { "gap": "right", "hazard": "cement", "marking": "none", "fake": false }
+  },
+  {
+    "id": "h39",
+    "gold": "hold",
+    "kind": "edge",
+    "cue": "A faint pothole sits in the right tyre track. A worn painted arrow points right. A traffic cone stands in the narrow left gap.",
+    "notes": "The painted arrow disagrees with the open side, and the left side is blocked. Hold the line.",
+    "visual": { "gap": "none", "hazard": "pothole", "marking": "paint", "fake": false }
+  },
+  {
+    "id": "h40",
+    "gold": "hold",
+    "kind": "edge",
+    "cue": "A shallow dip runs across the middle of the road. Neither the left side nor the right side is open.",
+    "notes": "Neither side is open, so there is nowhere to swerve. Hold the line.",
+    "visual": { "gap": "none", "hazard": "pothole", "marking": "none", "fake": false }
+  }
+]
